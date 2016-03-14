@@ -1,0 +1,19 @@
+body {
+	background: url(http://www.theclassroom.co/user/products/large/MAT1011a.jpg);
+}
+
+.top {
+	background-color: black;
+}
+
+h1 {
+	color: white;
+}
+
+h2 {
+	color: white;
+}
+
+#app {
+	background-color: black;
+}
